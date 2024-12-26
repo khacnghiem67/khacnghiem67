@@ -1,21 +1,25 @@
-### Hi there 👋
-🤔🤔🤔
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-<!--
-**khacnghiem67/khacnghiem67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Du
 
-Here are some ideas to get you started:
+> Software developer passionate about creating impactful solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a software developer focused on building elegant, efficient solutions to real-world problems. My journey in tech is driven by curiosity and a desire to make a positive impact through code.
+
+## 💻 Tech Stack
+
+- Programming Languages: [e.g., JavaScript]
+- Frontend: [e.g., React]
+- Backend: [e.g., Node.js]
+- Databases: [e.g., MySQL, MongoDB]
+- Tools & Platforms: [e.g., Docker, Git]
+
+## 🌱 Current Learning Goals
+
+- [Technology or skill you're currently learning]
+- [Area of interest you're exploring]
+- [New project you're working on]
+
+---
+
+⭐️ From [khacnghiem67](https://github.com/khacnghiem67)
