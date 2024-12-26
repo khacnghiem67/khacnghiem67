@@ -6,6 +6,10 @@
 
 I'm a software developer focused on building elegant, efficient solutions to real-world problems. My journey in tech is driven by curiosity and a desire to make a positive impact through code.
 
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khacnghiem67&show_icons=true&theme=radical)
+
 ## 💻 Tech Stack
 
 - Programming Languages: [e.g., JavaScript]
